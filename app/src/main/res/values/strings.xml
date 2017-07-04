@@ -25,5 +25,13 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="name">Name of list</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_of_list">Name of List</string>
+    <string name="prompt_title">Title</string>
+    <string name="title_activity_list_selection">ListSelectionActivity</string>
+    <string name="extra_title">title</string>
+    <string name="add_elements_to">Add elements to : </string>
 
 </resources>

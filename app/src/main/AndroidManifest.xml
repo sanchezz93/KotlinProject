@@ -17,12 +17,22 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".LoginActivity"
+            android:name=".Views.LoginActivity"
             android:label="@string/title_activity_login" />
         <activity
             android:name=".Views.MainActivity"
             android:label="@string/title_activity_main"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Views.ListSelectionActivity"
+            android:label="@string/title_activity_list_selection"
+            android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
 </manifest>
