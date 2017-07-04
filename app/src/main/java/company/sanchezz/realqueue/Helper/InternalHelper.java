@@ -6,6 +6,6 @@ package company.sanchezz.realqueue.Helper;
 
 public class InternalHelper {
 
-    
+
 
 }
