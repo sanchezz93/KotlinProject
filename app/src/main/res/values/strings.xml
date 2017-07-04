@@ -17,5 +17,13 @@
         completions."
     </string>
     <string name="prompt_enable_connection">Enable data or wifi</string>
+    <string name="my_account">Account</string>
+    <string name="about_us">About us</string>
+    <string name="share">Share</string>
+    <string name="log_out">Log out</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 
 </resources>
